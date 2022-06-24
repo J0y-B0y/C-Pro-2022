@@ -25,9 +25,8 @@ Note: Every function has a return value
 
 **What is a function?**
 Roughly, it helps to breakdown the program in various smaller parts/units
-*/
 
-/*How to run program?
+How to run program?
 1. gcc "file name", in this case ~ gcc HelloWorld.c
 2. after running command, a file named a.out will be created 
 3. Run the file with ./a.out*/
