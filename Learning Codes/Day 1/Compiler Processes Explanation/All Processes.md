@@ -3,3 +3,6 @@
 2. Compilation
 3. Assembly
 4. Linking
+
+*Command to have an insight about the processes:*
+```gcc -Wall -save-temps filename```
